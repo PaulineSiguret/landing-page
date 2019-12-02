@@ -1,0 +1,22 @@
+.bouton {
+	background-color: #ff5656;
+	padding: 15px 25px;
+	color: white;
+	width: 70px;
+	height: 70px;
+	border-radius: 6px;
+	box-shadow: 6px 6px 7px #fc8888;
+	margin-right: 26px;
+}
+
+
+.bouton2 {
+	background-color: #42b883;
+	padding: 15px 25px;
+	color: white;
+	width: 70px;
+	height: 70px;
+	border-radius: 6px;
+	box-shadow: 6px 6px 7px #b6e6bd;
+	margin-bottom: 60px;
+}

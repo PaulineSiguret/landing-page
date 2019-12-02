@@ -1,0 +1,21 @@
+.banner {
+	background-image: linear-gradient(-225deg, rgba(255,255,255,0.4) 0%, rgba(255,192,203,0.2)50%), url(../../Images/healthy.jpeg);
+	background-size: cover;
+	color: #004a2f;
+	padding: 87px 0px;
+	background-position: center;
+}
+
+.banner h1 {
+	font-size: 70px;
+	margin-left: 40px;
+	padding-top: 30px;
+}
+
+.banner h2 {
+	font-size: 40px;
+	font-weight: lighter;
+	opacity: 0.8;
+	margin-right: 50px;
+    margin-bottom: 50px;
+}

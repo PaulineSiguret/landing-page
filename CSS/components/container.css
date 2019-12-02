@@ -1,0 +1,63 @@
+.container {
+	width: 700px;
+	margin: 0 auto; 
+  padding-bottom: 30px;
+}
+
+.container h2 {
+  margin-left: 30px;
+}
+
+.container1 , .container2 { 
+  margin: 20px;
+  flex-wrap: wrap;
+  display-flex: flex;
+}
+
+.containerhead {
+  text-align: center;
+} 
+
+.h2-font {
+  font-size: 35px;
+}
+
+.hashtag1, .hashtag2 {
+  color: #ff5656;
+}
+
+.color-slogan {
+  color: #ffd739;
+}
+
+.insta { 
+  margin-top: 45px;
+}
+
+#font-size {
+  font-size: 27px;
+}
+
+@media (max-width: 960px) {
+  .container {
+    width: 700px;
+  }
+}
+
+@media (max-width: 720px) {
+  .container {
+    width: 500px;
+  }
+  .link-wrap {
+    flex-wrap: wrap;
+  }
+}
+
+@media (max-width: 400px) {
+  .container {
+    width: 300px;
+  }
+    .link-wrap {
+    flex-wrap: wrap;
+  }
+}
